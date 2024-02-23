@@ -25,7 +25,7 @@
 
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-RUBY-333333?style=?style=for-the-badge&logo=RUBY)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![CSS](https://img.shields.io/badge/-Python-333333?style=flat&logo=PYTHON&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=python)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
