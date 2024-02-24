@@ -35,8 +35,10 @@
    ![Django](https://img.shields.io/badge/-django-333333?style=flat&logo=django)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![SQL](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mysql)
-  ![PostgreSQL](https://img.shields.io/badge/-oracle-333333?style=flat&logo=postgresql)
+  ![SQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgresSQL-333333?style=flat&logo=postgresql)
+  ![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=dynamodb)
+  ![CloudSQL](https://img.shields.io/badge/-CloudSQL-333333?style=flat&logo=cloudsql)
   ![Firebase](https://img.shields.io/badge/-firebase-333333?style=flat&logo=firebase)
   
 - ⚙️ &nbsp;
