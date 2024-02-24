@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi , I'm Rhythm</h1>
-<h4 align="center">I am both a software developer and a Master's student at the University of North Carolina at Charlotte., see my <a href="https://github.com/YashAnetz/Resume/blob/main/yashresume23mar.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">I am both a software developer and a Master's student at the University of North Carolina at Charlotte., see my <a href="https://github.com/Rhythm-agrawal/Rhythm-agrawal/blob/main/Rhythm_Resume_2024.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - 🎓 &nbsp; Studying Computer Science at the University of North Carolina at Charlotte.
-- 🤖 &nbsp; Research Assistant at for Computer Science and System Engineering Dept at UNCC 
+- 🤖 &nbsp; Research Assistant for Computer Science and System Engineering Dept at UNCC 
 - 🧑‍💻 &nbsp; Worked on more than 20 projects in Ruby on Rails, Javascript/React, AWS, Docker, Kubernetes, Python, SQL. Integrated 30+ third-party APIs from scratch including(Heroku, Google, Slack, Airtable, Justworks, Render, Asana API etc) using oauth token, api key and token based mechanism.
 - 📚 &nbsp;  Currrently learning Generative AI.
 - 📀 &nbsp;  3 years work experience as a Full-Stack Software developer.
@@ -35,7 +35,9 @@
    ![Django](https://img.shields.io/badge/-django-333333?style=flat&logo=django)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Oracle](https://img.shields.io/badge/-oracle-333333?style=flat&logo=oracle)
+  ![SQL](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=sql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=postgresql)
+  ![PostgreSQL](https://img.shields.io/badge/-oracle-333333?style=flat&logo=oracle)
   ![Firebase](https://img.shields.io/badge/-firebase-333333?style=flat&logo=firebase)
   
 - ⚙️ &nbsp;
