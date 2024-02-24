@@ -14,11 +14,11 @@
 <h3> 💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Computer Science at University of North Carolina at Charlotte.
-- 🤖 &nbsp; //research assistant
-- 🧑‍💻 &nbsp; //personal porjcet
-- 📚 &nbsp; //learning
-- 📀 &nbsp; //work ex
+- 🎓 &nbsp; Studying Computer Science at the University of North Carolina at Charlotte.
+- 🤖 &nbsp; Research Assistant at for Computer Science and System Engineering Dept at UNCC 
+- 🧑‍💻 &nbsp; Worked on more than 20 projects in Ruby on Rails, Javascript/React, AWS, Docker, Kubernetes, Python, SQL. Integrated 30+ third-party APIs from scratch including(Heroku, Google, Slack, Airtable, Justworks, Render, Asana API etc) using oauth token, api key and token based mechanism.
+- 📚 &nbsp;  Currrently learning Generative AI.
+- 📀 &nbsp;  3 years work experience as a Full-Stack Software developer.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
