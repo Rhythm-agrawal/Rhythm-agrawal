@@ -1,6 +1,7 @@
 <div align="center">
 <h1 align="center">Hi , I'm Rhythm</h1>
 <h4 align="center">I am both a software developer and a Master's student at the University of North Carolina at Charlotte., see my <a href="https://github.com/Rhythm-agrawal/Rhythm-agrawal/blob/main/Rhythm_Resume_2024.pdf" target="_blank">resume</a> for more</h4>
+  <image src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/> 
 </div>
 
 <div align="center">
